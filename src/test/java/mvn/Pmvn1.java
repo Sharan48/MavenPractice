@@ -29,6 +29,7 @@ System.out.println("mvn practice");
 public void pmn6() {
 	
 
-System.out.println("mvn practice");
+System.out.println("mvn  practice");
+System.out.println("mvn  practice");
 }
 }
