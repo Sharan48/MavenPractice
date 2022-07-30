@@ -3,32 +3,40 @@ package mvn;
 import org.testng.annotations.Test;
 
 public class Pmvn1 {
-@Test
-public void pmn() {
-	System.out.println("mvn practice");
-}
-
-@Test
-public void pmn1() {
-	System.out.println("mvn practice");
-}
-
-@Test
-public void pmn4() {
-	
-
-System.out.println("mvn practice");
-}
-@Test
-public void pmn5() {
-	
-
-System.out.println("mvn practice");
-}
 	@Test
-public void pmn6() {
-	
+	public void pmn() {
+		System.out.println("mvn practice");
+	}
 
-System.out.println("mvn practice");
-}
+	@Test
+	public void pmn1() {
+		System.out.println("mvn practice");
+	}
+
+	@Test
+	public void pmn4() {
+
+
+		System.out.println("mvn practice");
+	}
+	@Test
+	public void pmn5() {
+
+
+		System.out.println("mvn practice");
+	}
+	@Test
+	public void pmn6() {
+
+
+		System.out.println("mvn  practice");
+		System.out.println("mvn  practice");
+	}
+	@Test
+	public void pmn7() {
+
+
+		System.out.println("mvn  practice");
+		System.out.println("mvn  practice");
+	}
 }
