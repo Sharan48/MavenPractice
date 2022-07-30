@@ -19,4 +19,10 @@ public void pmn4() {
 
 System.out.println("mvn practice");
 }
+@Test
+public void pmn5() {
+	
+
+System.out.println("mvn practice");
+}
 }
